@@ -54,6 +54,13 @@ ul{
    color: #434455;
 }
 
+.contacts-link:hover{
+    color: #404bbf;
+}
+
+.contacts-link:focus{
+    color: #404bbf;
+}
 
 .hero{
    background: #2e2f42;
