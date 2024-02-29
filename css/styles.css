@@ -29,7 +29,7 @@ ul{
 .header-link:hover{
     color: #404bbf;
 }
-..header-link:focus{
+.header-link:focus{
     color: #404bbf;
 }
 
